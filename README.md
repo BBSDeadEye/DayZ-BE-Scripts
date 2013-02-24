@@ -1,7 +1,7 @@
 DayZ-BE-Scripts
 ===============
 
-A Battleye Filter Repository for DayZ
+A DayZ Battleye Filter Repository for DayZ
 
 
 How to install
